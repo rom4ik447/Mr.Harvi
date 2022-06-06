@@ -1,0 +1,49 @@
+.partner-info {
+    height: 100vh;
+    background-image: url(/img/partnershipx3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 50%;
+}
+
+.partner-container {
+    height: 100%;
+    margin-top: 30vh;
+    padding-left: 75px;
+}
+
+.partner-title {
+    color: #ffffff;
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 64px;
+    font-family: 'Vollkorn', serif;
+}
+
+.partner-text {
+    color: #ffffff;
+    width: 400px;
+    padding-top: 25px;
+}
+
+.partner-program {
+    padding: 100px;
+    padding-left: 25px;
+}
+
+.geo-sale {
+    background-color: #f5f5fa;
+    padding: 30px 0;
+}
+
+.geo-text {
+    width: 810px;
+    padding-top: 25px;
+}
+
+.flags-container {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    padding: 20px 0 0;
+}

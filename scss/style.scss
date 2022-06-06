@@ -1,0 +1,19 @@
+@import "navbar";
+@import "aboutus";
+@import "partnership";
+
+* {
+    font-size: 16px;
+    line-height: 1.8em;
+    box-sizing: border-box;
+    font-feature-settings: "lnum";
+    font-variant-numeric: lining-nums;
+    font-family: "Raleway", sans-serif;
+}
+
+.space {
+    height: 50px;
+}
+
+
+

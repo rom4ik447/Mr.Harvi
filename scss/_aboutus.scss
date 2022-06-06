@@ -1,0 +1,99 @@
+.home-info {
+    height: 100vh;
+    background-image: url(/img/aboutx3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: 50%;
+}
+
+.about-container {
+    height: 100%;
+    margin-top: 20vh;
+}
+
+.about-title {
+    color: #ffffff;
+    font-size: 90px;
+    font-weight: 700;
+    line-height: 64px;
+    font-family: 'Vollkorn', serif;
+}
+
+.about-text {
+    color: #ffffff;
+}
+
+.main-sect {
+    margin-top: 50px;
+}
+
+.main-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-title {
+    font-size: 70px;
+    line-height: 64px;
+    font-weight: 700;
+    font-family: 'Vollkorn', serif;
+}
+
+.main-info {
+    width: 350px;
+
+    &-text {
+        padding-top: 25px;
+    }
+
+    &-photo {
+        padding: 50px;
+        background-image: url(/img/decor4.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    &-photo2 {
+        padding: 50px;
+        background-image: url(/img/decor5.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    &-photo3 {
+        padding: 50px;
+        background-image: url(/img/decor7.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+}
+
+.main-photo {
+    margin-top: 25px;
+}
+
+.main-photo3 {
+    width: 90%;
+}
+
+.field-sect {
+    height: 100vh;
+    background-image: url(/img/our-fieldsx3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.field-content {
+    width: 400px;
+    margin-left: 400px;
+    padding-top: 200px;
+    color: #ffffff;
+}
+
+.field-title {
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 64px;
+    font-family: 'Vollkorn', serif;
+}
